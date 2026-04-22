@@ -1,0 +1,2241 @@
+age_grp,department,embarked,survived
+40-49,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,TRUE
+30-39,2nd Class,Cherbourg,FALSE
+20-29,2nd Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,TRUE
+10-19,3rd Class,Cherbourg,TRUE
+30-39,Engine,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+20-29,3rd Class,Cherbourg,TRUE
+30-39,2nd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,1st Class,Southampton,TRUE
+30-39,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+30-39,1st Class,Southampton,FALSE
+20-29,1st Class,Southampton,FALSE
+0-9,1st Class,Southampton,FALSE
+0-9,1st Class,Southampton,TRUE
+30-39,Engine,Belfast,FALSE
+40-49,Victualling,Belfast,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+40-49,1st Class,Southampton,TRUE
+40-49,Deck,Southampton,TRUE
+40-49,Victualling,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+60-69,1st Class,Cherbourg,TRUE
+30-39,1st Class,Belfast,FALSE
+10-19,Victualling,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+50-59,1st Class,Southampton,TRUE
+30-39,Deck,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+70-79,1st Class,Cherbourg,FALSE
+50-59,2nd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+0-9,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,TRUE
+40-49,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,TRUE
+40-49,3rd Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+40-49,1st Class,Cherbourg,FALSE
+10-19,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Cherbourg,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+20-29,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+10-19,3rd Class,Cherbourg,TRUE
+20-29,3rd Class,Cherbourg,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+20-29,3rd Class,Cherbourg,TRUE
+0-9,3rd Class,Cherbourg,TRUE
+0-9,3rd Class,Cherbourg,TRUE
+0-9,3rd Class,Cherbourg,TRUE
+10-19,3rd Class,Southampton,TRUE
+40-49,3rd Class,Cherbourg,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+10-19,2nd Class,Southampton,FALSE
+40-49,Deck,Southampton,TRUE
+40-49,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+10-19,Victualling,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+40-49,3rd Class,Cherbourg,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+20-29,1st Class,Southampton,TRUE
+10-19,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,Victualling,Belfast,FALSE
+40-49,1st Class,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+50-59,2nd Class,Southampton,FALSE
+60-69,1st Class,Cherbourg,FALSE
+50-59,1st Class,Cherbourg,TRUE
+20-29,1st Class,Cherbourg,FALSE
+50-59,Victualling,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+30-39,A la Carte,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+10-19,2nd Class,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+30-39,Engine,Belfast,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,TRUE
+10-19,3rd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+10-19,2nd Class,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+40-49,1st Class,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+20-29,1st Class,Cherbourg,TRUE
+50-59,Engine,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+10-19,2nd Class,Southampton,TRUE
+40-49,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+30-39,Victualling,Belfast,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+40-49,1st Class,Cherbourg,TRUE
+20-29,A la Carte,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+10-19,Engine,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,1st Class,Cherbourg,FALSE
+20-29,1st Class,Cherbourg,TRUE
+10-19,1st Class,Cherbourg,TRUE
+30-39,Victualling,Belfast,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,1st Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Belfast,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+20-29,Engine,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+,A la Carte,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+40-49,Victualling,Belfast,FALSE
+30-39,1st Class,Southampton,TRUE
+60-69,1st Class,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,2nd Class,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,3rd Class,Cherbourg,FALSE
+0-9,3rd Class,Cherbourg,FALSE
+0-9,3rd Class,Cherbourg,FALSE
+40-49,3rd Class,Queenstown,FALSE
+30-39,3rd Class,Queenstown,FALSE
+40-49,3rd Class,Queenstown,FALSE
+40-49,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+20-29,1st Class,Southampton,TRUE
+20-29,A la Carte,Southampton,FALSE
+20-29,Deck,Belfast,TRUE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,3rd Class,Queenstown,TRUE
+20-29,Deck,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+,1st Class,Southampton,FALSE
+40-49,1st Class,Cherbourg,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+40-49,1st Class,Cherbourg,FALSE
+30-39,Engine,Southampton,FALSE
+40-49,Victualling,Belfast,FALSE
+30-39,Engine,Southampton,FALSE
+40-49,Deck,Southampton,TRUE
+20-29,2nd Class,Southampton,FALSE
+20-29,Victualling,Belfast,TRUE
+40-49,Deck,Belfast,TRUE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+50-59,1st Class,Southampton,TRUE
+40-49,1st Class,Cherbourg,TRUE
+10-19,2nd Class,Southampton,TRUE
+60-69,2nd Class,Southampton,FALSE
+40-49,2nd Class,Southampton,TRUE
+10-19,2nd Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,Victualling,Belfast,FALSE
+30-39,1st Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+20-29,3rd Class,Queenstown,TRUE
+20-29,3rd Class,Queenstown,FALSE
+30-39,Victualling,Southampton,FALSE
+50-59,1st Class,Cherbourg,TRUE
+20-29,Deck,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Belfast,FALSE
+10-19,Victualling,Southampton,FALSE
+10-19,3rd Class,Queenstown,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,Victualling,Belfast,FALSE
+40-49,1st Class,Cherbourg,TRUE
+10-19,3rd Class,Queenstown,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+20-29,2nd Class,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+,1st Class,Southampton,FALSE
+40-49,1st Class,Southampton,TRUE
+30-39,Engine,Belfast,FALSE
+20-29,2nd Class,Southampton,TRUE
+20-29,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+20-29,2nd Class,Belfast,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,FALSE
+50-59,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+10-19,2nd Class,Southampton,FALSE
+50-59,1st Class,Cherbourg,TRUE
+30-39,1st Class,Cherbourg,TRUE
+30-39,1st Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,3rd Class,Queenstown,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,1st Class,Southampton,FALSE
+10-19,1st Class,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+10-19,1st Class,Southampton,TRUE
+10-19,1st Class,Southampton,TRUE
+50-59,2nd Class,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,A la Carte,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+30-39,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,1st Class,Southampton,FALSE
+20-29,1st Class,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+40-49,1st Class,Southampton,TRUE
+20-29,1st Class,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+50-59,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+30-39,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+20-29,Victualling,Belfast,FALSE
+40-49,1st Class,Cherbourg,TRUE
+40-49,1st Class,Southampton,TRUE
+30-39,3rd Class,Southampton,TRUE
+40-49,1st Class,Belfast,FALSE
+30-39,Engine,Belfast,FALSE
+20-29,Victualling,Southampton,FALSE
+50-59,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,2nd Class,Southampton,TRUE
+20-29,2nd Class,Southampton,TRUE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,1st Class,Cherbourg,FALSE
+20-29,1st Class,Cherbourg,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+30-39,2nd Class,Southampton,FALSE
+20-29,1st Class,Southampton,TRUE
+30-39,Deck,Southampton,TRUE
+30-39,Deck,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Southampton,FALSE
+50-59,Engine,Belfast,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+30-39,1st Class,Southampton,FALSE
+30-39,Engine,Southampton,TRUE
+10-19,Victualling,Southampton,FALSE
+,1st Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+30-39,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+60-69,1st Class,Cherbourg,TRUE
+30-39,1st Class,Cherbourg,TRUE
+30-39,1st Class,Cherbourg,FALSE
+30-39,3rd Class,Queenstown,FALSE
+30-39,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,TRUE
+30-39,3rd Class,Queenstown,FALSE
+60-69,3rd Class,Queenstown,FALSE
+20-29,Victualling,Belfast,FALSE
+20-29,2nd Class,Southampton,TRUE
+40-49,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+10-19,A la Carte,Southampton,FALSE
+50-59,1st Class,Southampton,TRUE
+10-19,3rd Class,Queenstown,TRUE
+20-29,2nd Class,Southampton,FALSE
+,Engine,Southampton,FALSE
+20-29,Deck,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+50-59,3rd Class,Southampton,FALSE
+20-29,Engine,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+30-39,Victualling,Belfast,TRUE
+10-19,3rd Class,Southampton,FALSE
+40-49,Engine,Belfast,FALSE
+40-49,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+20-29,Engine,Southampton,TRUE
+30-39,Victualling,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+70-79,1st Class,Southampton,FALSE
+60-69,1st Class,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+40-49,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+10-19,A la Carte,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+40-49,Victualling,Belfast,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,1st Class,Cherbourg,FALSE
+30-39,1st Class,Cherbourg,TRUE
+20-29,2nd Class,Belfast,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,TRUE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+40-49,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+50-59,1st Class,Southampton,TRUE
+30-39,3rd Class,Queenstown,TRUE
+20-29,3rd Class,Queenstown,TRUE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+20-29,1st Class,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+10-19,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+30-39,1st Class,Cherbourg,FALSE
+20-29,1st Class,Cherbourg,TRUE
+20-29,2nd Class,Southampton,FALSE
+40-49,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,Victualling,Belfast,FALSE
+20-29,Victualling,Belfast,FALSE
+,2nd Class,Southampton,FALSE
+,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+30-39,Deck,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+,2nd Class,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+30-39,3rd Class,Southampton,TRUE
+30-39,3rd Class,Southampton,TRUE
+10-19,3rd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+10-19,Victualling,Southampton,FALSE
+10-19,A la Carte,Southampton,FALSE
+20-29,Victualling,Belfast,FALSE
+20-29,2nd Class,Cherbourg,FALSE
+20-29,2nd Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Victualling,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+10-19,3rd Class,Queenstown,TRUE
+20-29,Engine,Southampton,FALSE
+10-19,2nd Class,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+10-19,1st Class,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+30-39,Engine,Belfast,FALSE
+40-49,Victualling,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+50-59,1st Class,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+0-9,1st Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,2nd Class,Southampton,FALSE
+10-19,2nd Class,Southampton,FALSE
+10-19,A la Carte,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,3rd Class,Queenstown,FALSE
+30-39,3rd Class,Queenstown,FALSE
+20-29,Engine,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+20-29,A la Carte,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,Victualling,Southampton,FALSE
+50-59,1st Class,Cherbourg,FALSE
+40-49,1st Class,Cherbourg,TRUE
+20-29,1st Class,Cherbourg,TRUE
+50-59,2nd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+20-29,3rd Class,Queenstown,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,3rd Class,Cherbourg,FALSE
+40-49,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+40-49,1st Class,Cherbourg,TRUE
+40-49,1st Class,Cherbourg,TRUE
+20-29,Engine,Belfast,FALSE
+30-39,1st Class,Cherbourg,FALSE
+40-49,Victualling,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+30-39,2nd Class,Cherbourg,TRUE
+20-29,2nd Class,Cherbourg,TRUE
+60-69,3rd Class,Queenstown,FALSE
+20-29,Engine,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+60-69,1st Class,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,1st Class,Cherbourg,TRUE
+40-49,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,TRUE
+40-49,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,TRUE
+20-29,2nd Class,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+30-39,Victualling,Southampton,FALSE
+10-19,Engine,Belfast,FALSE
+30-39,3rd Class,Southampton,FALSE
+40-49,Victualling,Belfast,TRUE
+50-59,1st Class,Cherbourg,TRUE
+30-39,1st Class,Cherbourg,FALSE
+20-29,Deck,Southampton,TRUE
+20-29,Deck,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,Victualling,Belfast,FALSE
+,2nd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+10-19,2nd Class,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,Engine,Belfast,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,Victualling,Belfast,FALSE
+50-59,1st Class,Southampton,FALSE
+30-39,Victualling,Belfast,TRUE
+40-49,2nd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Victualling,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,A la Carte,Southampton,FALSE
+10-19,2nd Class,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+20-29,A la Carte,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,Engine,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,Deck,Belfast,TRUE
+40-49,1st Class,Cherbourg,TRUE
+40-49,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Queenstown,FALSE
+20-29,Victualling,Belfast,FALSE
+,1st Class,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+20-29,3rd Class,Queenstown,FALSE
+40-49,3rd Class,Queenstown,FALSE
+10-19,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,FALSE
+40-49,Deck,Belfast,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,1st Class,Southampton,FALSE
+,1st Class,Southampton,FALSE
+,1st Class,Southampton,FALSE
+60-69,1st Class,Southampton,FALSE
+60-69,1st Class,Southampton,TRUE
+20-29,1st Class,Southampton,TRUE
+20-29,1st Class,Southampton,TRUE
+20-29,1st Class,Southampton,TRUE
+10-19,1st Class,Southampton,FALSE
+20-29,Deck,Southampton,TRUE
+30-39,Engine,Belfast,FALSE
+30-39,2nd Class,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+30-39,1st Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Engine,Belfast,FALSE
+30-39,Engine,Southampton,FALSE
+40-49,1st Class,Cherbourg,TRUE
+40-49,1st Class,Cherbourg,TRUE
+40-49,1st Class,Cherbourg,TRUE
+20-29,Engine,Southampton,FALSE
+40-49,Victualling,Belfast,FALSE
+20-29,1st Class,Cherbourg,TRUE
+60-69,1st Class,Cherbourg,TRUE
+40-49,1st Class,Cherbourg,TRUE
+30-39,2nd Class,Belfast,FALSE
+30-39,1st Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,1st Class,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+30-39,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+10-19,2nd Class,Southampton,FALSE
+30-39,A la Carte,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,3rd Class,Cherbourg,TRUE
+20-29,3rd Class,Cherbourg,FALSE
+,3rd Class,Cherbourg,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,1st Class,Cherbourg,TRUE
+20-29,1st Class,Cherbourg,TRUE
+30-39,1st Class,Southampton,TRUE
+20-29,1st Class,Cherbourg,FALSE
+30-39,A la Carte,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+10-19,3rd Class,Queenstown,TRUE
+30-39,2nd Class,Southampton,FALSE
+10-19,3rd Class,Queenstown,TRUE
+30-39,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+40-49,1st Class,Cherbourg,TRUE
+40-49,1st Class,Cherbourg,TRUE
+30-39,Engine,Southampton,FALSE
+70-79,1st Class,Cherbourg,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+40-49,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+50-59,1st Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+30-39,1st Class,Southampton,FALSE
+50-59,1st Class,Southampton,TRUE
+10-19,1st Class,Southampton,TRUE
+20-29,Engine,Belfast,FALSE
+40-49,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+50-59,2nd Class,Southampton,FALSE
+40-49,1st Class,Cherbourg,TRUE
+20-29,1st Class,Cherbourg,TRUE
+40-49,Engine,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+40-49,1st Class,Cherbourg,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Engine,Belfast,TRUE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,Deck,Belfast,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+30-39,2nd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+40-49,Victualling,Southampton,FALSE
+20-29,Victualling,Belfast,FALSE
+10-19,3rd Class,Southampton,FALSE
+50-59,Engine,Southampton,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+30-39,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Cherbourg,TRUE
+30-39,Engine,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+20-29,1st Class,Cherbourg,TRUE
+20-29,1st Class,Cherbourg,TRUE
+30-39,Deck,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,TRUE
+30-39,Victualling,Belfast,TRUE
+10-19,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Southampton,FALSE
+40-49,1st Class,Cherbourg,TRUE
+40-49,1st Class,Cherbourg,TRUE
+30-39,2nd Class,Southampton,FALSE
+0-9,2nd Class,Southampton,TRUE
+30-39,1st Class,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+60-69,2nd Class,Southampton,TRUE
+30-39,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+30-39,Engine,Belfast,FALSE
+40-49,Victualling,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+40-49,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+20-29,3rd Class,Queenstown,FALSE
+40-49,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Engine,Belfast,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,1st Class,Cherbourg,TRUE
+10-19,3rd Class,Cherbourg,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+40-49,1st Class,Southampton,TRUE
+50-59,1st Class,Southampton,FALSE
+50-59,1st Class,Southampton,TRUE
+20-29,1st Class,Cherbourg,TRUE
+40-49,Victualling,Belfast,FALSE
+40-49,1st Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Queenstown,TRUE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,TRUE
+10-19,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+40-49,Deck,Belfast,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,TRUE
+30-39,Victualling,Belfast,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+40-49,2nd Class,Southampton,TRUE
+20-29,2nd Class,Southampton,TRUE
+20-29,2nd Class,Southampton,TRUE
+30-39,Engine,Belfast,FALSE
+30-39,Victualling,Belfast,FALSE
+50-59,2nd Class,Southampton,TRUE
+20-29,Deck,Southampton,TRUE
+20-29,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+40-49,1st Class,Southampton,FALSE
+10-19,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+40-49,1st Class,Cherbourg,TRUE
+10-19,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+10-19,Victualling,Belfast,FALSE
+20-29,2nd Class,Southampton,FALSE
+50-59,2nd Class,Southampton,TRUE
+20-29,2nd Class,Southampton,TRUE
+30-39,2nd Class,Southampton,FALSE
+20-29,Engine,Belfast,FALSE
+50-59,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,Engine,Belfast,FALSE
+50-59,1st Class,Cherbourg,TRUE
+20-29,Deck,Belfast,TRUE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+20-29,Victualling,Belfast,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+20-29,Deck,Belfast,FALSE
+20-29,3rd Class,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+40-49,1st Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,Deck,Southampton,TRUE
+10-19,Victualling,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+30-39,Deck,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Belfast,FALSE
+40-49,2nd Class,Southampton,TRUE
+30-39,Victualling,Belfast,FALSE
+60-69,2nd Class,Southampton,FALSE
+60-69,2nd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+30-39,Victualling,Belfast,FALSE
+30-39,1st Class,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+40-49,1st Class,Cherbourg,TRUE
+30-39,Victualling,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,Deck,Southampton,TRUE
+30-39,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Deck,Belfast,FALSE
+10-19,Victualling,Southampton,TRUE
+30-39,3rd Class,Southampton,TRUE
+30-39,3rd Class,Cherbourg,FALSE
+30-39,1st Class,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+10-19,2nd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+50-59,1st Class,Cherbourg,FALSE
+40-49,1st Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+20-29,Victualling,Belfast,FALSE
+40-49,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,3rd Class,Cherbourg,TRUE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+40-49,Victualling,Belfast,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,3rd Class,Queenstown,TRUE
+20-29,2nd Class,Cherbourg,TRUE
+20-29,Victualling,Southampton,FALSE
+20-29,Deck,Belfast,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+40-49,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+40-49,Victualling,Belfast,TRUE
+40-49,1st Class,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Deck,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Cherbourg,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,Victualling,Belfast,TRUE
+30-39,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+10-19,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,3rd Class,Cherbourg,TRUE
+0-9,3rd Class,Cherbourg,TRUE
+40-49,Engine,Southampton,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+30-39,2nd Class,Queenstown,FALSE
+40-49,2nd Class,Queenstown,TRUE
+20-29,3rd Class,Queenstown,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,1st Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,2nd Class,Southampton,TRUE
+10-19,3rd Class,Southampton,FALSE
+40-49,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,TRUE
+20-29,3rd Class,Queenstown,TRUE
+40-49,Engine,Southampton,FALSE
+20-29,Engine,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,Engine,Belfast,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+30-39,Victualling,Southampton,FALSE
+50-59,1st Class,Cherbourg,FALSE
+40-49,1st Class,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+40-49,Engine,Belfast,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,FALSE
+40-49,1st Class,Southampton,TRUE
+40-49,1st Class,Southampton,TRUE
+10-19,Victualling,Southampton,FALSE
+40-49,Deck,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+50-59,2nd Class,Queenstown,FALSE
+30-39,Victualling,Southampton,FALSE
+,1st Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+,2nd Class,Southampton,FALSE
+30-39,2nd Class,Belfast,FALSE
+40-49,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Cherbourg,TRUE
+20-29,1st Class,Southampton,TRUE
+20-29,2nd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,3rd Class,Cherbourg,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+30-39,2nd Class,Queenstown,FALSE
+,1st Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+10-19,3rd Class,Queenstown,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+20-29,2nd Class,Cherbourg,FALSE
+20-29,2nd Class,Cherbourg,TRUE
+0-9,2nd Class,Cherbourg,TRUE
+0-9,2nd Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+50-59,Victualling,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+40-49,1st Class,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+40-49,Deck,Southampton,TRUE
+10-19,Engine,Southampton,FALSE
+20-29,3rd Class,Cherbourg,TRUE
+40-49,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+10-19,2nd Class,Cherbourg,TRUE
+30-39,3rd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+30-39,2nd Class,Southampton,TRUE
+20-29,3rd Class,Queenstown,FALSE
+,1st Class,Southampton,FALSE
+10-19,1st Class,Southampton,FALSE
+10-19,1st Class,Southampton,FALSE
+,1st Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,Victualling,Belfast,FALSE
+20-29,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+20-29,Victualling,Belfast,FALSE
+30-39,2nd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,1st Class,Cherbourg,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Deck,Belfast,TRUE
+20-29,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+30-39,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,TRUE
+30-39,Engine,Southampton,TRUE
+50-59,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Queenstown,FALSE
+50-59,1st Class,Cherbourg,TRUE
+10-19,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+60-69,2nd Class,Queenstown,FALSE
+40-49,Victualling,Belfast,FALSE
+20-29,3rd Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,1st Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,1st Class,Cherbourg,TRUE
+10-19,Victualling,Southampton,FALSE
+30-39,1st Class,Southampton,FALSE
+50-59,2nd Class,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Deck,Belfast,TRUE
+20-29,Deck,Southampton,TRUE
+30-39,Victualling,Belfast,TRUE
+20-29,3rd Class,Southampton,TRUE
+50-59,3rd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+30-39,3rd Class,Southampton,TRUE
+50-59,1st Class,Cherbourg,TRUE
+30-39,Victualling,Southampton,FALSE
+30-39,3rd Class,Cherbourg,FALSE
+40-49,3rd Class,Southampton,FALSE
+20-29,Deck,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+50-59,2nd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Belfast,TRUE
+30-39,Engine,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Queenstown,TRUE
+10-19,1st Class,Southampton,TRUE
+20-29,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+30-39,1st Class,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+10-19,1st Class,Southampton,TRUE
+30-39,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,TRUE
+30-39,Victualling,Belfast,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,2nd Class,Cherbourg,FALSE
+30-39,2nd Class,Cherbourg,FALSE
+20-29,2nd Class,Cherbourg,TRUE
+0-9,2nd Class,Cherbourg,TRUE
+20-29,3rd Class,Cherbourg,TRUE
+30-39,3rd Class,Queenstown,FALSE
+30-39,2nd Class,Cherbourg,FALSE
+20-29,3rd Class,Queenstown,TRUE
+30-39,Victualling,Southampton,FALSE
+50-59,Victualling,Southampton,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,3rd Class,Cherbourg,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+10-19,1st Class,Southampton,FALSE
+10-19,1st Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Deck,Southampton,FALSE
+20-29,Deck,Southampton,FALSE
+30-39,3rd Class,Cherbourg,FALSE
+30-39,2nd Class,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,Deck,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+60-69,Engine,Southampton,FALSE
+,1st Class,Southampton,FALSE
+,1st Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,Victualling,Belfast,TRUE
+20-29,1st Class,Cherbourg,TRUE
+20-29,Engine,Southampton,FALSE
+50-59,Victualling,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+40-49,Deck,Southampton,TRUE
+20-29,3rd Class,Queenstown,TRUE
+30-39,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+10-19,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,TRUE
+20-29,3rd Class,Queenstown,TRUE
+20-29,3rd Class,Queenstown,TRUE
+30-39,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,3rd Class,Queenstown,TRUE
+30-39,Victualling,Southampton,FALSE
+10-19,3rd Class,Queenstown,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+30-39,Deck,Southampton,FALSE
+20-29,3rd Class,Queenstown,TRUE
+40-49,3rd Class,Queenstown,FALSE
+10-19,3rd Class,Queenstown,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,Victualling,Belfast,TRUE
+20-29,Victualling,Belfast,FALSE
+30-39,Victualling,Belfast,FALSE
+40-49,Victualling,Belfast,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,Engine,Belfast,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Belfast,FALSE
+60-69,3rd Class,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+30-39,3rd Class,Southampton,FALSE
+40-49,2nd Class,Southampton,TRUE
+10-19,2nd Class,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+10-19,2nd Class,Southampton,TRUE
+40-49,3rd Class,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,1st Class,Cherbourg,FALSE
+20-29,1st Class,Cherbourg,TRUE
+30-39,2nd Class,Southampton,FALSE
+20-29,Engine,Belfast,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Belfast,FALSE
+30-39,Engine,Belfast,FALSE
+60-69,1st Class,Cherbourg,FALSE
+40-49,2nd Class,Southampton,FALSE
+50-59,Victualling,Southampton,FALSE
+40-49,1st Class,,FALSE
+30-39,1st Class,,TRUE
+30-39,1st Class,,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+50-59,Victualling,Belfast,FALSE
+70-79,2nd Class,Southampton,FALSE
+10-19,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Queenstown,TRUE
+20-29,3rd Class,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,Deck,Belfast,FALSE
+20-29,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+40-49,1st Class,Southampton,FALSE
+30-39,Deck,Southampton,TRUE
+10-19,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,3rd Class,Queenstown,TRUE
+20-29,3rd Class,Queenstown,FALSE
+50-59,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Belfast,TRUE
+30-39,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Southampton,TRUE
+30-39,Victualling,Belfast,FALSE
+20-29,3rd Class,Cherbourg,TRUE
+0-9,3rd Class,Cherbourg,TRUE
+0-9,3rd Class,Cherbourg,TRUE
+20-29,A la Carte,Southampton,FALSE
+30-39,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,Engine,Belfast,FALSE
+10-19,2nd Class,Southampton,FALSE
+20-29,3rd Class,Queenstown,TRUE
+20-29,Victualling,Southampton,FALSE
+,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+10-19,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,TRUE
+20-29,3rd Class,Southampton,FALSE
+30-39,Deck,Belfast,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,3rd Class,Queenstown,TRUE
+20-29,3rd Class,Queenstown,TRUE
+10-19,3rd Class,Queenstown,TRUE
+10-19,3rd Class,Southampton,FALSE
+60-69,2nd Class,Queenstown,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Cherbourg,TRUE
+10-19,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Cherbourg,TRUE
+10-19,3rd Class,Cherbourg,TRUE
+0-9,3rd Class,Cherbourg,TRUE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+40-49,A la Carte,Southampton,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,2nd Class,Cherbourg,FALSE
+10-19,2nd Class,Cherbourg,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+30-39,1st Class,Cherbourg,FALSE
+20-29,3rd Class,Queenstown,FALSE
+30-39,2nd Class,Southampton,FALSE
+0-9,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+50-59,1st Class,Cherbourg,FALSE
+20-29,1st Class,Cherbourg,TRUE
+30-39,1st Class,Cherbourg,TRUE
+30-39,Engine,Southampton,FALSE
+10-19,1st Class,Southampton,TRUE
+10-19,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,Deck,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+,1st Class,Southampton,FALSE
+60-69,1st Class,Southampton,FALSE
+10-19,3rd Class,Cherbourg,TRUE
+10-19,3rd Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,TRUE
+40-49,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+,1st Class,Southampton,FALSE
+,1st Class,Southampton,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,1st Class,Cherbourg,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,TRUE
+60-69,3rd Class,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,FALSE
+10-19,3rd Class,Queenstown,FALSE
+10-19,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,3rd Class,Queenstown,TRUE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,TRUE
+10-19,3rd Class,Queenstown,TRUE
+60-69,Deck,Belfast,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Southampton,FALSE
+,1st Class,Southampton,FALSE
+10-19,1st Class,Southampton,FALSE
+,1st Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+30-39,1st Class,Cherbourg,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Deck,Belfast,TRUE
+40-49,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+,2nd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,Deck,Southampton,TRUE
+60-69,1st Class,Southampton,FALSE
+20-29,1st Class,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,1st Class,Cherbourg,FALSE
+40-49,Victualling,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+10-19,Victualling,Southampton,FALSE
+10-19,A la Carte,Southampton,FALSE
+20-29,2nd Class,Cherbourg,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,2nd Class,Cherbourg,TRUE
+40-49,Engine,Belfast,FALSE
+20-29,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+10-19,2nd Class,Belfast,FALSE
+20-29,1st Class,Belfast,FALSE
+50-59,2nd Class,Southampton,TRUE
+20-29,Engine,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+40-49,Deck,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,1st Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,1st Class,Southampton,FALSE
+20-29,1st Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,1st Class,Cherbourg,FALSE
+20-29,1st Class,Cherbourg,TRUE
+10-19,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,Victualling,Belfast,FALSE
+20-29,A la Carte,Southampton,FALSE
+10-19,A la Carte,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Deck,Belfast,TRUE
+30-39,2nd Class,Cherbourg,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+10-19,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+40-49,2nd Class,Southampton,FALSE
+20-29,3rd Class,Cherbourg,TRUE
+0-9,3rd Class,Cherbourg,TRUE
+0-9,3rd Class,Cherbourg,TRUE
+20-29,3rd Class,Queenstown,FALSE
+20-29,Deck,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+50-59,1st Class,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Belfast,TRUE
+40-49,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+10-19,2nd Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Belfast,FALSE
+30-39,A la Carte,Southampton,FALSE
+10-19,A la Carte,Southampton,FALSE
+30-39,A la Carte,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+30-39,2nd Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+30-39,Deck,Belfast,TRUE
+10-19,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,Deck,Southampton,TRUE
+10-19,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,2nd Class,Cherbourg,TRUE
+40-49,1st Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+50-59,1st Class,Cherbourg,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+10-19,A la Carte,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,Victualling,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,2nd Class,Cherbourg,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+20-29,Engine,Southampton,TRUE
+30-39,Victualling,Belfast,FALSE
+30-39,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,TRUE
+30-39,Victualling,Belfast,FALSE
+60-69,3rd Class,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,Victualling,Belfast,TRUE
+30-39,3rd Class,Cherbourg,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+50-59,Victualling,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+30-39,1st Class,Cherbourg,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,2nd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+20-29,A la Carte,Southampton,FALSE
+30-39,3rd Class,Queenstown,FALSE
+10-19,3rd Class,Queenstown,FALSE
+0-9,3rd Class,Queenstown,FALSE
+0-9,3rd Class,Queenstown,FALSE
+0-9,3rd Class,Queenstown,FALSE
+0-9,3rd Class,Queenstown,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+20-29,2nd Class,Cherbourg,FALSE
+20-29,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+50-59,2nd Class,Southampton,TRUE
+20-29,1st Class,Cherbourg,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+10-19,3rd Class,Queenstown,TRUE
+60-69,3rd Class,Southampton,FALSE
+50-59,3rd Class,Southampton,FALSE
+40-49,1st Class,Cherbourg,FALSE
+40-49,1st Class,Southampton,TRUE
+10-19,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+40-49,Victualling,Belfast,FALSE
+50-59,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+40-49,Victualling,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+30-39,1st Class,Southampton,FALSE
+10-19,2nd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,1st Class,Southampton,TRUE
+40-49,3rd Class,Southampton,FALSE
+30-39,1st Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+40-49,1st Class,Cherbourg,FALSE
+30-39,1st Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+40-49,1st Class,Cherbourg,FALSE
+50-59,1st Class,Cherbourg,TRUE
+20-29,A la Carte,Southampton,FALSE
+20-29,Engine,Belfast,FALSE
+50-59,3rd Class,Southampton,FALSE
+40-49,A la Carte,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+30-39,Deck,Belfast,TRUE
+30-39,Victualling,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+50-59,Victualling,Belfast,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Queenstown,TRUE
+20-29,Victualling,Southampton,FALSE
+60-69,1st Class,Cherbourg,FALSE
+40-49,1st Class,Cherbourg,TRUE
+10-19,1st Class,Cherbourg,TRUE
+20-29,1st Class,Cherbourg,TRUE
+10-19,1st Class,Cherbourg,TRUE
+30-39,Victualling,Southampton,FALSE
+30-39,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+40-49,1st Class,Southampton,TRUE
+20-29,A la Carte,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+10-19,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+20-29,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+40-49,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+40-49,3rd Class,Cherbourg,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+40-49,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+0-9,3rd Class,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+20-29,A la Carte,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,Deck,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+30-39,Deck,Southampton,TRUE
+40-49,A la Carte,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+20-29,3rd Class,Southampton,TRUE
+20-29,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+20-29,A la Carte,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,Engine,Southampton,TRUE
+10-19,3rd Class,Cherbourg,FALSE
+50-59,3rd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Southampton,FALSE
+40-49,1st Class,Southampton,TRUE
+20-29,Victualling,Belfast,TRUE
+10-19,2nd Class,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+50-59,1st Class,Cherbourg,FALSE
+30-39,1st Class,Cherbourg,TRUE
+30-39,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+50-59,1st Class,Southampton,TRUE
+30-39,Deck,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+30-39,2nd Class,Southampton,TRUE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+50-59,2nd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+40-49,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+30-39,2nd Class,Queenstown,TRUE
+30-39,2nd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,Engine,Belfast,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,1st Class,Southampton,TRUE
+40-49,Engine,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,Victualling,Belfast,FALSE
+50-59,1st Class,Cherbourg,FALSE
+,1st Class,Southampton,FALSE
+20-29,1st Class,Cherbourg,FALSE
+10-19,1st Class,Cherbourg,TRUE
+30-39,2nd Class,Southampton,TRUE
+60-69,Deck,Southampton,FALSE
+20-29,Deck,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Engine,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Belfast,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+10-19,3rd Class,Queenstown,TRUE
+20-29,Victualling,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,1st Class,Southampton,TRUE
+20-29,1st Class,Southampton,TRUE
+20-29,2nd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+40-49,1st Class,Cherbourg,TRUE
+30-39,1st Class,Cherbourg,TRUE
+0-9,1st Class,Cherbourg,TRUE
+50-59,1st Class,Cherbourg,FALSE
+40-49,1st Class,Cherbourg,TRUE
+30-39,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+40-49,2nd Class,Cherbourg,FALSE
+40-49,Victualling,Southampton,FALSE
+60-69,1st Class,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+,Engine,Southampton,FALSE
+50-59,1st Class,Cherbourg,TRUE
+40-49,1st Class,Cherbourg,TRUE
+50-59,1st Class,Cherbourg,TRUE
+,1st Class,Southampton,FALSE
+50-59,1st Class,Cherbourg,FALSE
+20-29,Victualling,Belfast,TRUE
+20-29,Engine,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+60-69,1st Class,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+50-59,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+60-69,1st Class,Southampton,FALSE
+60-69,1st Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,Victualling,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+40-49,3rd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+60-69,1st Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+70-79,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+40-49,Victualling,Belfast,FALSE
+10-19,2nd Class,Southampton,FALSE
+10-19,2nd Class,Southampton,FALSE
+40-49,1st Class,Southampton,TRUE
+30-39,Victualling,Belfast,FALSE
+20-29,Deck,Southampton,TRUE
+40-49,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+,Victualling,Southampton,FALSE
+20-29,Deck,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+30-39,1st Class,Southampton,TRUE
+10-19,1st Class,Southampton,TRUE
+40-49,1st Class,Southampton,TRUE
+40-49,1st Class,Southampton,TRUE
+30-39,2nd Class,Southampton,FALSE
+30-39,Deck,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,Engine,Southampton,TRUE
+50-59,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,TRUE
+20-29,Deck,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+40-49,1st Class,Cherbourg,FALSE
+30-39,1st Class,Cherbourg,TRUE
+10-19,1st Class,Cherbourg,TRUE
+40-49,Victualling,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Cherbourg,FALSE
+10-19,3rd Class,Cherbourg,TRUE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,TRUE
+20-29,Victualling,Southampton,FALSE
+10-19,3rd Class,Cherbourg,FALSE
+0-9,3rd Class,Cherbourg,TRUE
+30-39,3rd Class,Cherbourg,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,TRUE
+20-29,Victualling,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,TRUE
+40-49,Engine,Southampton,FALSE
+20-29,Engine,Southampton,TRUE
+20-29,A la Carte,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,3rd Class,Queenstown,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Belfast,TRUE
+40-49,2nd Class,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Cherbourg,TRUE
+0-9,3rd Class,Cherbourg,TRUE
+0-9,3rd Class,Cherbourg,TRUE
+,2nd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+20-29,2nd Class,Southampton,TRUE
+30-39,1st Class,Cherbourg,TRUE
+30-39,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,TRUE
+60-69,3rd Class,Southampton,TRUE
+30-39,Engine,Belfast,FALSE
+20-29,Victualling,Belfast,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+10-19,A la Carte,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,1st Class,Cherbourg,FALSE
+30-39,A la Carte,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+0-9,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+60-69,1st Class,Belfast,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+40-49,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Cherbourg,TRUE
+40-49,2nd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+30-39,Deck,Southampton,TRUE
+10-19,A la Carte,Southampton,FALSE
+10-19,A la Carte,Southampton,FALSE
+30-39,A la Carte,Southampton,FALSE
+30-39,A la Carte,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,1st Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+40-49,Victualling,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+20-29,Engine,Belfast,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+40-49,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+20-29,2nd Class,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+60-69,1st Class,Cherbourg,FALSE
+60-69,1st Class,Cherbourg,TRUE
+30-39,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+10-19,2nd Class,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+40-49,2nd Class,Southampton,TRUE
+10-19,2nd Class,Southampton,TRUE
+30-39,Engine,Southampton,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,Victualling,Belfast,FALSE
+20-29,Engine,Southampton,FALSE
+50-59,Victualling,Belfast,FALSE
+30-39,2nd Class,Southampton,TRUE
+60-69,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+50-59,Victualling,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+20-29,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+30-39,Deck,Belfast,TRUE
+20-29,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+20-29,3rd Class,Southampton,TRUE
+30-39,2nd Class,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+0-9,2nd Class,Southampton,TRUE
+60-69,2nd Class,Southampton,FALSE
+20-29,Victualling,Belfast,TRUE
+20-29,2nd Class,Southampton,FALSE
+20-29,Victualling,Belfast,TRUE
+50-59,1st Class,Southampton,FALSE
+20-29,1st Class,Southampton,FALSE
+50-59,1st Class,Cherbourg,TRUE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+30-39,Victualling,Belfast,FALSE
+30-39,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+10-19,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+40-49,1st Class,Southampton,TRUE
+30-39,1st Class,Southampton,TRUE
+50-59,3rd Class,Southampton,FALSE
+50-59,1st Class,Southampton,FALSE
+50-59,1st Class,Southampton,TRUE
+20-29,1st Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+10-19,3rd Class,Southampton,FALSE
+30-39,Deck,Southampton,FALSE
+30-39,2nd Class,Southampton,TRUE
+40-49,3rd Class,Southampton,TRUE
+30-39,2nd Class,Southampton,TRUE
+20-29,1st Class,Southampton,TRUE
+30-39,3rd Class,Cherbourg,FALSE
+10-19,3rd Class,Southampton,FALSE
+50-59,1st Class,Cherbourg,FALSE
+20-29,1st Class,Cherbourg,TRUE
+20-29,2nd Class,Southampton,TRUE
+30-39,Victualling,Southampton,FALSE
+20-29,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+20-29,Engine,Belfast,FALSE
+40-49,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,TRUE
+20-29,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
+50-59,3rd Class,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,3rd Class,Southampton,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,Engine,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+40-49,Engine,Southampton,FALSE
+30-39,2nd Class,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+40-49,1st Class,Southampton,TRUE
+40-49,Victualling,Southampton,FALSE
+,1st Class,Southampton,FALSE
+10-19,Victualling,Belfast,FALSE
+60-69,1st Class,Southampton,FALSE
+20-29,2nd Class,Southampton,TRUE
+20-29,Victualling,Southampton,FALSE
+40-49,Victualling,Southampton,FALSE
+20-29,Engine,Southampton,FALSE
+40-49,Deck,Belfast,TRUE
+20-29,3rd Class,Cherbourg,TRUE
+10-19,3rd Class,Cherbourg,FALSE
+30-39,Victualling,Southampton,FALSE
+30-39,1st Class,Cherbourg,TRUE
+30-39,Engine,Southampton,FALSE
+40-49,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,2nd Class,Southampton,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,3rd Class,Cherbourg,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,A la Carte,Southampton,FALSE
+20-29,3rd Class,Southampton,FALSE
